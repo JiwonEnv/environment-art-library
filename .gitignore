@@ -1,0 +1,14 @@
+# Substance Designer autosave backups
+.autosave/
+*.autosave
+
+# Substance Painter cache / autosave
+*.spp.bak
+*_autosave*/
+.cache/
+
+# OS / editor junk
+Thumbs.db
+desktop.ini
+.DS_Store
+*.tmp
